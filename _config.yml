@@ -1,9 +1,9 @@
-title: MIP Materials
-description: MIP Materials documentation
+title: WMC-3xHIF
+description: WMC Learning Hub
 theme: just-the-docs
 # remote_theme: just-the-docs/just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://michel-spg.github.io/wmc-3xhif
 
 collections:
   docs:
