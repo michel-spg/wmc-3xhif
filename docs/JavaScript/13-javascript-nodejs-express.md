@@ -5,7 +5,7 @@ layout: default
 parent: JavaScript
 ---
 
-![bg left:50% 80%](../assets/imgs/spg_logo.png)
+![bg left:50% 80%](../../assets/imgs/spg_logo.png)
 
 # JS – Node.js & Express
 

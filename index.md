@@ -20,8 +20,6 @@ Dieser Kurs vermittelt dir fundierte Kenntnisse in der modernen Webentwicklung s
 | Web Frameworks                | Einführung in Frameworks wie Vue.js, React oder Angular                     |
 | Backend-Grundlagen            | Einblick in serverseitige Programmierung mit Node.js oder Python            |
 | REST-APIs & Datenkommunikation| Aufbau und Nutzung von Schnittstellen zur Datenübertragung                  |
-<!-- | Mobile App Entwicklung        | Entwicklung nativer und hybrider Apps, z. B. mit Flutter oder React Native  | -->
-<!-- | Deployment & Hosting          | Veröffentlichung von Webanwendungen, z. B. mit GitHub Pages oder Netlify    | -->
 | Tools & Best Practices        | Versionskontrolle (Git), Debugging, Performance, Accessibility usw.         |
 
 ---
