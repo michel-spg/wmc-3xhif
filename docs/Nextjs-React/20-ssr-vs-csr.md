@@ -11,6 +11,8 @@ parent: Nextjs & React
 
 <!-- ![bg left:50% 80%](../assets/spengergasse_logo_skaliert.png) -->
 
+![bg left:50% 80%](../../assets/imgs/spg_logo.png)
+
 # Server-Side Rendering (SSR) vs. Client-Side Rendering (CSR)
 
 Beim **Server-Side Rendering (SSR)** wird die HTML-Seite vollständig auf dem Server generiert und dann an den Browser gesendet. Dies führt zu schnelleren anfänglichen Ladezeiten und einer besseren SEO-Optimierung, da der Inhalt sofort für Suchmaschinen sichtbar ist. Allerdings erhöht sich die Serverlast, und dynamische Interaktionen können komplexer sein.  
